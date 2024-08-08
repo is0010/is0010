@@ -6,5 +6,4 @@
 <p dir="auto"><strong>Name:</strong> A <br>
       <strong>Loves:</strong>  Anime,  Games,<br>
 <br>
-    <img src="https://i.pinimg.com/originals/3f/ce/3d/3fce3d3f35144558fdfa9179fab13199.gif" width="500px" alt="Parade" style="max-width: 100%;">
-</div>
+   <iframe src="https://assets.pinterest.com/ext/embed.html?id=578008933440128029" height="353" width="450" frameborder="0" scrolling="no" ></iframe>
