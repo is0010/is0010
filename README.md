@@ -1,6 +1,6 @@
 <div align="center" dir="auto">
 <a href="https://git.io/typing-svg">
- <img src="https://git.io/typing-svg" alt="Typing SVG" /></a>
+ <img src="[https:https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7461D&width=435&lines=Hi+welcome+to+My+github+✨" /></a>
 <h2 tabindex="-1" class="heading-element" dir="auto"><em>About Me</em></h2>
 <p dir="auto"><strong>Name:</strong> anas <br>
       <strong>Loves:</strong> 11011000 10011111 <br>
